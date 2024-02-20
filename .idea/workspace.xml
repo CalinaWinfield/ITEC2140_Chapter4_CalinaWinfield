@@ -1,34 +1,126 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="5f86fd3c-1b1d-4318-aa52-5cda589fa6d0" name="Changes" comment="" />
+    <list default="true" id="5f86fd3c-1b1d-4318-aa52-5cda589fa6d0" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise6.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise8.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise9.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Exercise9.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 5
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
   <component name="ProjectId" id="2cQ21C59hN9NyDr9Vybs8ksSLwP" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.Exercise1.executor": "Run",
+    "Application.Exercise10.executor": "Run",
+    "Application.Exercise2.executor": "Run",
+    "Application.Exercise3.executor": "Run",
+    "Application.Exercise4.executor": "Run",
+    "Application.Exercise5.executor": "Run",
+    "Application.Exercise6.executor": "Run",
+    "Application.Exercise7.executor": "Run",
+    "Application.Exercise8.executor": "Run",
+    "Application.Exercise9.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "git-widget-placeholder": "master",
+    "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RunManager" selected="Application.Exercise10">
+    <configuration name="Exercise10" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise10" />
+      <module name="ITEC2140_Chapter4_CalinaWinfield" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise6" />
+      <module name="ITEC2140_Chapter4_CalinaWinfield" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise7" />
+      <module name="ITEC2140_Chapter4_CalinaWinfield" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise8" />
+      <module name="ITEC2140_Chapter4_CalinaWinfield" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise9" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise9" />
+      <module name="ITEC2140_Chapter4_CalinaWinfield" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Exercise10" />
+        <item itemvalue="Application.Exercise9" />
+        <item itemvalue="Application.Exercise8" />
+        <item itemvalue="Application.Exercise7" />
+        <item itemvalue="Application.Exercise6" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="jdk-21.0.1-openjdk-21.0.1-f644763e9732-f98dd351" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -37,7 +129,10 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1708029264963</updated>
-      <workItem from="1708029266394" duration="14000" />
+      <workItem from="1708029266394" duration="4253000" />
+      <workItem from="1708095086262" duration="11903000" />
+      <workItem from="1708282368240" duration="16920000" />
+      <workItem from="1708439551685" duration="12250000" />
     </task>
     <servers />
   </component>
