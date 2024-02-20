@@ -36,11 +36,13 @@ public class Exercise7 {
         // I got help here
         int comparison = str1.compareTo(str2);
 
-        if (comparison < 0) {
+        if(comparison < 0){
             System.out.println("String '" + str1 + "' appears before String '" + str2 + "' in lexicographic order.");
-        } else if (comparison > 0) {
+        }
+        else if(comparison > 0){
             System.out.println("String '" + str2 + "' appears before String '" + str1 + "' in lexicographic order.");
-        } else {
+        }
+        else{
             System.out.println("Strings '" + str1 + "' and '" + str2 + "' are the same, lexicographically.");
         }
         System.out.println("New sentence created is '" + str1 + " " + str2 + "'");

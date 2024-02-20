@@ -20,18 +20,18 @@ public class Exercise3 {
         int notMax = 0;
         int notMin = 100;
 
-        while (input.hasNextInt()) {
+        while(input.hasNextInt()){
             int grade = input.nextInt();
 
-            if (grade > notMax) {
+            if(grade > notMax){
                 notMax = grade;
             }
 
-            if (grade < notMin) {
+            if(grade < notMin){
                 notMin = grade;
             }
         }
-            System.out.println("Highest grade: " + notMax);
-            System.out.println("Lowest grade: " + notMin);
+        System.out.println("Highest grade: " + notMax);
+        System.out.println("Lowest grade: " + notMin);
     }
 }

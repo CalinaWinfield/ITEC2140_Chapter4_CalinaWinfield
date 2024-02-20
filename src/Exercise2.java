@@ -21,17 +21,17 @@ public class Exercise2 {
 
 		System.out.println("Enter student grades: ");
 
-		while (true) {
-			if (keyboard.hasNextInt()) {
+		while(true) {
+			if(keyboard.hasNextInt()) {
 				int grade = keyboard.nextInt();
 				sum += grade;
 				gradeCount++;
 			}
-			else {
+			else{
 				break;
 			}
 		}
-			double average = (double) sum / gradeCount;
-			System.out.printf("The student's average grade is %.2f ",average);
+		double average = (double) sum / gradeCount;
+		System.out.printf("The student's average grade is %.2f ",average);
 	}
 }
